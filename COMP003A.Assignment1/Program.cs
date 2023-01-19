@@ -112,6 +112,7 @@ namespace COMP003A.LectureActivity1
             Console.WriteLine("#98. Details");
             Console.WriteLine("#99. Details");
             Console.WriteLine("#100. Details");
+
         }
 
     }
