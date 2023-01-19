@@ -12,16 +12,16 @@ namespace COMP003A.LectureActivity1
         static void Main(string[] args)
         {
             Console.WriteLine("100 Things About Me");
-            Console.WriteLine("#1. Details");
-            Console.WriteLine("#2. Details");
-            Console.WriteLine("#3. Details");
-            Console.WriteLine("#4. Details");
-            Console.WriteLine("#5. Details");
-            Console.WriteLine("#6. Details");
-            Console.WriteLine("#7. Details");
-            Console.WriteLine("#8. Details");
-            Console.WriteLine("#9. Details");
-            Console.WriteLine("#10. Details");
+            Console.WriteLine("#1. I'm turning 20 this year");
+            Console.WriteLine("#2. I want a cat");
+            Console.WriteLine("#3. I think winter is better than summer");
+            Console.WriteLine("#4. I like the brand Adidas");
+            Console.WriteLine("#5. Favorite color is blue and green");
+            Console.WriteLine("#6. I listen to music all the time");
+            Console.WriteLine("#7. I enjoy going to the gym");
+            Console.WriteLine("#8. I play soccer");
+            Console.WriteLine("#9. I want to get a tattoo");
+            Console.WriteLine("#10. I want to travel to Japan");
             Console.WriteLine("#11. Details");
             Console.WriteLine("#12. Details");
             Console.WriteLine("#13. Details");
