@@ -22,7 +22,7 @@ namespace COMP003A.LectureActivity1
             Console.WriteLine("#8. I play soccer");
             Console.WriteLine("#9. I want to get a tattoo");
             Console.WriteLine("#10. I want to travel to Japan");
-            Console.WriteLine("#11. Details");
+            Console.WriteLine("#11. I could only come up with 10 other details");
             Console.WriteLine("#12. Details");
             Console.WriteLine("#13. Details");
             Console.WriteLine("#14. Details");
